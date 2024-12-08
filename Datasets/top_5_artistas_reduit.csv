@@ -1,0 +1,501 @@
+artist,date,genre,pixelsx,pixelsy,size_bytes,source,style,title,artist_group,in_train,new_filename
+John Singer Sargent,1918,genre painting,5000.0,1868.0,5424727.0,wikiart,Realism,Gassed,train_and_test,True,14128.jpg
+Vincent van Gogh,1887,cityscape,2630.0,3461.0,9630782.0,wikiart,Post-Impressionism,Entrance to the Moulin de la Galette,train_and_test,True,75309.jpg
+John Singer Sargent,1906,portrait,2400.0,3751.0,1163783.0,wikiart,Realism,"Frederick Sleigh Roberts, 1st Earl Roberts",train_and_test,True,85520.jpg
+Vincent van Gogh,1886,self-portrait,2725.0,3301.0,9226662.0,wikiart,Post-Impressionism,Self-Portrait with Dark Felt Hat at the Easel,train_and_test,True,21520.jpg
+Vincent van Gogh,1890,portrait,2479.0,3237.0,2183192.0,wikiart,Post-Impressionism,Young Peasant Girl in a Straw Hat sitting in front of a wheatfield,train_and_test,True,61388.jpg
+Vincent van Gogh,1890,genre painting,2628.0,2970.0,6355177.0,wikiart,Post-Impressionism,Landscape with Couple Walking and Crescent Moon,train_and_test,True,87903.jpg
+Vincent van Gogh,1889,sketch and study,3085.0,2527.0,6807323.0,wikiart,Post-Impressionism,The Courtyard of the Hospital at Arles,train_and_test,False,26488.jpg
+Vincent van Gogh,1885,portrait,2448.0,3168.0,6362891.0,wikiart,Realism,Head of an Old Woman with White Cap The Midwife,train_and_test,True,60631.jpg
+Vincent van Gogh,1887,landscape,3071.0,2489.0,2112277.0,wikiart,Post-Impressionism,On the Outskirts of Paris,train_and_test,True,25955.jpg
+Vincent van Gogh,1890,flower painting,2739.0,2781.0,7336459.0,wikiart,Post-Impressionism,Japanese Vase with Roses and Anemones,train_and_test,True,53388.jpg
+Vincent van Gogh,1888,cityscape,2430.0,3121.0,8185396.0,wikipedia,Post-Impressionism,Les Alyscamps,train_and_test,True,85049.jpg
+Vincent van Gogh,1885,cityscape,2399.0,3140.0,6915108.0,wikiart,Realism,Backyards of Old Houses in Antwerp in the Snow,train_and_test,True,67895.jpg
+Vincent van Gogh,1890,portrait,2739.0,2750.0,5404238.0,wikiart,Cloisonnism,Two Children,train_and_test,True,1426.jpg
+Vincent van Gogh,1888,landscape,2870.0,2609.0,8288607.0,wikiart,Japonism,The Langlois Bridge at Arles with Women Washing,train_and_test,True,87809.jpg
+Vincent van Gogh,1884,still life,3071.0,2394.0,1984313.0,wikiart,Realism,"Still Life with Four Stone Bottles, Flask and White Cup ",train_and_test,True,62470.jpg
+Vincent van Gogh,1888,sketch and study,2987.0,2439.0,5714389.0,wikiart,Post-Impressionism,Field with Flowers,train_and_test,True,47623.jpg
+Vincent van Gogh,1888,sketch and study,2309.0,3050.0,2043305.0,wikiart,Post-Impressionism,Portrait of the Postman Joseph Roulin,train_and_test,True,10639.jpg
+Vincent van Gogh,1888,landscape,2300.0,3050.0,2255845.0,wikiart,Post-Impressionism,Wheat Field with Sheaves and Arles in the Background ,train_and_test,True,25444.jpg
+John Singer Sargent,1884,portrait,1895.0,3680.0,1445234.0,wikiart,Realism,Madame X (also known as Madame Pierre Gautreau),train_and_test,True,11988.jpg
+Vincent van Gogh,1890,flower painting,2169.0,3180.0,7132214.0,wikiart,Post-Impressionism,Still Life Vase with Rose-Mallows,train_and_test,True,31328.jpg
+Vincent van Gogh,c.1885,sketch and study,2037.0,3354.0,5278566.0,wikiart,Realism,Head of a Young Man,train_and_test,True,10446.jpg
+Vincent van Gogh,1889,landscape,2721.0,2499.0,6863350.0,wikiart,Post-Impressionism,Study of Pine Trees,train_and_test,False,7270.jpg
+Vincent van Gogh,1888,portrait,2201.0,3079.0,2009873.0,wikiart,Post-Impressionism,Portrait of Eugene Boch,train_and_test,True,57934.jpg
+Vincent van Gogh,1890,landscape,2130.0,3180.0,7462460.0,wikiart,Post-Impressionism,The Garden of Doctor Gachet at Auvers-sur-Oise,train_and_test,True,33956.jpg
+Vincent van Gogh,1888,genre painting,2908.0,2297.0,6444167.0,wikiart,Post-Impressionism,Sower,train_and_test,True,87410.jpg
+Vincent van Gogh,1888,landscape,2886.0,2285.0,7201227.0,wikiart,Post-Impressionism,"Harvest at La Crau, with Montmajour in the Background",train_and_test,True,5742.jpg
+Vincent van Gogh,1888,landscape,2838.0,2287.0,6935883.0,wikiart,Post-Impressionism,Haystacks in Provence,train_and_test,True,63410.jpg
+Vincent van Gogh,1887,still life,2727.0,2317.0,1908848.0,wikipedia,Post-Impressionism,Still Life with Basket of Apples (to Lucien Pissarro),train_and_test,True,5202.jpg
+Vincent van Gogh,1887,landscape,2760.0,2280.0,6663663.0,wikiart,Post-Impressionism,Wheat Field with a Lark,train_and_test,True,70528.jpg
+Vincent van Gogh,1887,still life,2716.0,2304.0,2005544.0,wikiart,Post-Impressionism,Still Life with Basket of Apples,train_and_test,True,25303.jpg
+John Singer Sargent,1889,portrait,1763.0,3510.0,2047970.0,wikiart,Realism,Miss Ellen Terry as Lady Macbeth,train_and_test,True,100510.jpg
+John Singer Sargent,c.1882,genre painting,2138.0,2890.0,2787479.0,wikiart,Realism,A Street in Venice ,train_and_test,True,74380.jpg
+Vincent van Gogh,1887,cityscape,2725.0,2261.0,1841803.0,wikipedia,Post-Impressionism,Restaurant de la Sirene at Asnieres,train_and_test,True,21498.jpg
+Vincent van Gogh,1888,landscape,2253.0,2725.0,1881049.0,wikiart,Post-Impressionism,Arles View from the Wheat Fields,train_and_test,True,14872.jpg
+Vincent van Gogh,1890,genre painting,2735.0,2238.0,1980199.0,wikipedia,Post-Impressionism,The Drinkers (after Daumier),train_and_test,False,99669.jpg
+Vincent van Gogh,1888,landscape,2242.0,2725.0,1826474.0,wikiart,Post-Impressionism,A Lane near Arles,train_and_test,True,73970.jpg
+Vincent van Gogh,1887,flower painting,2245.0,2713.0,1938775.0,wikiart,Post-Impressionism,"Vase with Lilacs, Daisies and Anemones",train_and_test,True,41943.jpg
+John Singer Sargent,1919,sketch and study,2129.0,2857.0,1006420.0,wikiart,Realism,Studies of Aphrodite for Aphrodite and Eros,train_and_test,True,55279.jpg
+Vincent van Gogh,1885,portrait,2220.0,2730.0,5362355.0,wikiart,Realism,Portrait of Woman in Blue,train_and_test,True,101270.jpg
+Vincent van Gogh,1885,sketch and study,2205.0,2741.0,1946173.0,wikipedia,Realism,Peasant Woman Digging,train_and_test,False,30933.jpg
+Vincent van Gogh,1889,landscape,2736.0,2209.0,5911720.0,wikiart,Post-Impressionism,Entrance to a Quarry,train_and_test,True,102168.jpg
+Vincent van Gogh,1890,portrait,2211.0,2727.0,1744478.0,wikiart,Post-Impressionism,Dr. Paul Gachet,train_and_test,True,26594.jpg
+Vincent van Gogh,1885,portrait,2215.0,2720.0,1879264.0,wikiart,Post-Impressionism,Portrait of a Woman with a Red Ribbon,train_and_test,True,36628.jpg
+Vincent van Gogh,1890,genre painting,1684.0,3573.0,1941303.0,wikiart,Post-Impressionism,Marguerite Gachet at the Piano,train_and_test,True,98413.jpg
+Vincent van Gogh,1887,self-portrait,2201.0,2719.0,1932121.0,wikiart,Post-Impressionism,Self-Portrait,train_and_test,True,20881.jpg
+Vincent van Gogh,1887,landscape,2203.0,2716.0,1986731.0,wikiart,Post-Impressionism,Trees and Undergrowth,train_and_test,True,5063.jpg
+Vincent van Gogh,1888,still life,2730.0,2190.0,1348447.0,wikipedia,Post-Impressionism,A Pair of Leather Clogs,train_and_test,True,47589.jpg
+Vincent van Gogh,1885,sketch and study,2155.0,2763.0,1836628.0,wikiart,Realism,Reaper,train_and_test,True,78696.jpg
+Vincent van Gogh,1885,sketch and study,2197.0,2708.0,1786777.0,wikiart,Realism,Peasant Woman Lifting Potatoes ,train_and_test,True,35744.jpg
+Vincent van Gogh,1888,landscape,2198.0,2704.0,1850409.0,wikiart,Post-Impressionism,Garden Behind a House,train_and_test,False,21934.jpg
+Vincent van Gogh,1888,still life,2173.0,2728.0,1818256.0,wikiart,Post-Impressionism,Paul Gauguin s Armchair,train_and_test,False,29124.jpg
+Vincent van Gogh,1885,genre painting,2129.0,2780.0,1697191.0,wikiart,Realism,Digger in a Potato Field: February,train_and_test,True,23522.jpg
+Vincent van Gogh,1889,landscape,2738.0,2160.0,4753861.0,wikiart,Post-Impressionism,Mountains at Saint-Remy with Dark Cottage,train_and_test,False,34660.jpg
+Vincent van Gogh,1887,landscape,2713.0,2174.0,1741310.0,wikiart,Post-Impressionism,Roadway with Underpass The Viaduct,train_and_test,True,61440.jpg
+Vincent van Gogh,1886,still life,2721.0,2165.0,1849556.0,wikiart,Post-Impressionism,Plaster Statuette of a Horse,train_and_test,True,31928.jpg
+John Singer Sargent,1880,genre painting,1955.0,3012.0,1582908.0,wikiart,Realism,Fumee d'Ambre Gris ,train_and_test,False,13.jpg
+Vincent van Gogh,1890,landscape,2735.0,2150.0,1795146.0,wikiart,Post-Impressionism,Vineyards with a View of Auvers,train_and_test,True,40012.jpg
+Vincent van Gogh,1888,portrait,2165.0,2703.0,1778374.0,wikiart,Post-Impressionism,Zouave,train_and_test,True,71371.jpg
+Vincent van Gogh,1890,portrait,2154.0,2716.0,1838253.0,wikiart,Post-Impressionism,Old Man in Sorrow (On the Threshold of Eternity),train_and_test,True,71349.jpg
+Vincent van Gogh,1889,landscape,2726.0,2145.0,1853121.0,wikiart,Post-Impressionism,Field of Spring Wheat at Sunrise,train_and_test,True,18464.jpg
+Vincent van Gogh,1890,religious painting,2156.0,2705.0,1682962.0,wikiart,Post-Impressionism,"The Good Samaritan, after Delacroix",train_and_test,True,32044.jpg
+John Singer Sargent,1877,portrait,2130.0,2716.0,2075013.0,wikiart,Realism,Miss Frances Sherborne Ridley Watts,train_and_test,True,9080.jpg
+Vincent van Gogh,1887,still life,2720.0,2125.0,1672856.0,wikipedia,Post-Impressionism,Still Life with Lemons on a Plate,train_and_test,True,56913.jpg
+Vincent van Gogh,1886,self-portrait,2100.0,2751.0,958159.0,wikiart,Realism,Self-Portrait,train_and_test,True,84517.jpg
+Vincent van Gogh,1883,genre painting,2122.0,2722.0,1902205.0,wikiart,Realism,Soup Distribution in a Public Soup Kitchen,train_and_test,True,59409.jpg
+Vincent van Gogh,1886,sketch and study,2129.0,2713.0,1872888.0,wikiart,Realism,Seated Man with a Beard,train_and_test,False,80230.jpg
+Vincent van Gogh,1887,still life,2731.0,2111.0,1813339.0,wikiart,Post-Impressionism,Two Cut Sunflowers,train_and_test,True,39599.jpg
+Vincent van Gogh,c.1886,nude painting (nu),2085.0,2764.0,1694866.0,wikiart,Realism,Seated Male Nude Seen from the Back,train_and_test,True,27683.jpg
+Vincent van Gogh,1888,portrait,2124.0,2712.0,1837968.0,wikipedia,Post-Impressionism,Portrait of the Artist's Mother,train_and_test,False,15001.jpg
+Vincent van Gogh,1885,sketch and study,2125.0,2710.0,1741641.0,wikiart,Realism,Peasant Lifting Beet,train_and_test,True,96538.jpg
+Vincent van Gogh,1888,portrait,2110.0,2725.0,1821311.0,wikipedia,Post-Impressionism,Portrait of Patience Escalier,train_and_test,True,57167.jpg
+Vincent van Gogh,1885,genre painting,2720.0,2111.0,4954774.0,wikiart,Realism,Peasant and Peasant Woman Planting Potatoes,train_and_test,False,44270.jpg
+Vincent van Gogh,1890,genre painting,2748.0,2089.0,2413584.0,wikiart,Post-Impressionism,Two Peasant Women Digging in Field with Snow,train_and_test,True,85906.jpg
+Vincent van Gogh,1882,portrait,1951.0,2935.0,6066116.0,wikiart,Realism,The Bookseller Blok,train_and_test,True,8462.jpg
+Vincent van Gogh,1889,portrait,2102.0,2720.0,1704310.0,wikiart,Post-Impressionism,Madame Roulin Rocking the Cradle (A lullaby),train_and_test,True,92653.jpg
+Vincent van Gogh,1889,landscape,2739.0,2080.0,1728347.0,wikiart,Post-Impressionism,Enclosed Field behind Saint-Paul Hospital,train_and_test,True,52087.jpg
+Vincent van Gogh,1884,cityscape,2081.0,2730.0,1873771.0,wikiart,Realism,Congregation Leaving the Reformed Church in Nuenen,train_and_test,True,14545.jpg
+Vincent van Gogh,1889,still life,2739.0,2070.0,5547867.0,wikiart,Post-Impressionism,"Still Life with Drawing Board, Pipe, Onions and Sealing-Wax",train_and_test,True,76534.jpg
+Vincent van Gogh,1886,cityscape,2702.0,2097.0,4971251.0,wikiart,Post-Impressionism,"Terrace of a Cafe on Montmartre ""La Guinguette""",train_and_test,False,38645.jpg
+Vincent van Gogh,1886,self-portrait,2086.0,2709.0,1761569.0,wikiart,Post-Impressionism,Self-Portrait with Dark Felt Hat,train_and_test,True,72714.jpg
+Vincent van Gogh,1882,genre painting,2321.0,2422.0,1804540.0,wikiart,Realism,Man Stooping with Stick or Spade,train_and_test,True,85607.jpg
+Vincent van Gogh,1890,religious painting,2738.0,2052.0,1686303.0,wikiart,Post-Impressionism,The Raising of Lazarus after Rembrandt,train_and_test,True,28542.jpg
+John Singer Sargent,1893,portrait,2128.0,2640.0,1548051.0,wikipedia,Realism,Elizabeth Winthrop Chanler,train_and_test,True,57482.jpg
+Vincent van Gogh,1886,sketch and study,2050.0,2740.0,1815768.0,wikiart,Realism,Seated Man with a Moustache and Cap,train_and_test,False,1755.jpg
+Vincent van Gogh,1885,sketch and study,2095.0,2679.0,1701788.0,wikiart,Realism,Peasant Woman Binding Sheaves,train_and_test,True,83400.jpg
+Vincent van Gogh,1889,sketch and study,2726.0,2055.0,1699780.0,wikiart,Post-Impressionism,The Starry Night,train_and_test,True,75795.jpg
+Vincent van Gogh,1887,portrait,2076.0,2698.0,1693588.0,wikipedia,Post-Impressionism,Woman Sitting by a Cradle,train_and_test,False,60537.jpg
+Vincent van Gogh,1886,flower painting,1822.0,3071.0,1791537.0,wikiart,Realism,Vase with Carnations and Other Flowers,train_and_test,True,22388.jpg
+Vincent van Gogh,1883,genre painting,2727.0,2036.0,1632771.0,wikiart,Realism,Two Women in the Moor,train_and_test,True,100522.jpg
+Vincent van Gogh,1889,genre painting,2031.0,2730.0,1439519.0,wikipedia,Post-Impressionism,Peasant Woman Binding Sheaves after Millet,train_and_test,True,36995.jpg
+Vincent van Gogh,1889,portrait,2033.0,2715.0,1784991.0,wikiart,Post-Impressionism,"Portrait of Trabuc, an Attendant at Saint-Paul Hospital",train_and_test,True,57154.jpg
+Vincent van Gogh,1889,landscape,2064.0,2650.0,1572884.0,wikiart,Post-Impressionism,Two Cypresses,train_and_test,True,76137.jpg
+Vincent van Gogh,1883,landscape,2722.0,2009.0,1738065.0,wikiart,Realism,Bulb Fields,train_and_test,True,89721.jpg
+John Singer Sargent,c.1880,portrait,2129.0,2555.0,1905308.0,wikiart,Realism,Jean Joseph Marie Carri,train_and_test,True,65670.jpg
+Vincent van Gogh,1884,landscape,1945.0,2769.0,1756247.0,wikiart,Realism,Avenue of Poplars,train_and_test,True,54245.jpg
+Martiros Saryan,1954,still life,2852.0,1887.0,2989868.0,wikiart,Realism,Gifts of Autumn,train_and_test,True,71295.jpg
+Vincent van Gogh,1885,vanitas,1986.0,2709.0,1675444.0,wikiart,Realism,Skull with Burning Cigarette,train_and_test,True,45697.jpg
+Vincent van Gogh,1890,cityscape,2705.0,1988.0,1669748.0,wikiart,Post-Impressionism,Village Street and Steps in Auvers with Figures,train_and_test,True,76842.jpg
+Vincent van Gogh,1886,still life,2060.0,2609.0,5588476.0,wikiart,Post-Impressionism,Plaster Statuette of a Female Torso,train_and_test,False,74892.jpg
+Vincent van Gogh,1885,sketch and study,1950.0,2755.0,1681969.0,wikiart,Realism,Peasant Woman Digging,train_and_test,True,87066.jpg
+Vincent van Gogh,1882,genre painting,1836.0,2916.0,5314692.0,wikiart,Realism,Worn Out,train_and_test,True,96487.jpg
+Vincent van Gogh,1888,landscape,2518.0,2123.0,5415015.0,wikipedia,Post-Impressionism,View of Arles with Irises in the Foreground,train_and_test,True,64547.jpg
+Vincent van Gogh,1886,genre painting,1959.0,2709.0,1650238.0,wikiart,Post-Impressionism,Sloping Path in Montmartre,train_and_test,True,74570.jpg
+Vincent van Gogh,1888,landscape,2552.0,2073.0,4416705.0,wikiart,Post-Impressionism,Path Through a Field with Willows,train_and_test,True,76519.jpg
+Vincent van Gogh,1887,landscape,2543.0,2079.0,4574146.0,wikiart,Post-Impressionism,Trees in a Field on a Sunny Day,train_and_test,True,73872.jpg
+Vincent van Gogh,1883,genre painting,1862.0,2831.0,1607089.0,wikiart,Realism,Girl Kneeling by a Cradle,train_and_test,True,41419.jpg
+Vincent van Gogh,1887,cityscape,2556.0,2062.0,5554593.0,wikiart,Post-Impressionism,The Seine with the Pont de la Grande Jette,train_and_test,True,33835.jpg
+John Singer Sargent,1888,portrait,1760.0,2989.0,1820511.0,wikiart,Realism,Mrs Adrian Iselin,train_and_test,True,84710.jpg
+Vincent van Gogh,1883,genre painting,1882.0,2784.0,1678388.0,wikiart,Realism,Man Breaking Up the Soil,train_and_test,True,50260.jpg
+Vincent van Gogh,1889,self-portrait,2147.0,2428.0,723874.0,wikiart,Post-Impressionism,Self-portrait with bandaged ear,train_and_test,False,4605.jpg
+Vincent van Gogh,1882,landscape,2722.0,1907.0,1637059.0,wikipedia,Realism,View of the Sea at Scheveningen,train_and_test,False,68304.jpg
+Vincent van Gogh,1885,landscape,2724.0,1905.0,1537930.0,wikipedia,Realism,Cottage and Woman with Goat,train_and_test,True,47397.jpg
+John Singer Sargent,1890,portrait,1609.0,2985.0,1800534.0,wikiart,Realism,Mrs. Edward L. Davis and Her Son Livingston,train_and_test,True,67497.jpg
+John Singer Sargent,1902,portrait,1614.0,2971.0,1417353.0,wikiart,Realism,Lord Ribblesdale,train_and_test,True,70726.jpg
+John Singer Sargent,1921,mythological painting,2586.0,1791.0,759472.0,wikiart,Neoclassicism,Apollo and the Muses,train_and_test,True,86449.jpg
+John Singer Sargent,1893,portrait,1551.0,2847.0,1514406.0,wikipedia,Realism,Mrs. Hugh Hammersley,train_and_test,True,7892.jpg
+John Singer Sargent,1887,genre painting,2282.0,1860.0,1338852.0,wikiart,Impressionism,The Birthday Party,train_and_test,True,88207.jpg
+John Singer Sargent,1897,portrait,1399.0,3009.0,1100049.0,wikiart,Realism,Mr. and Mrs. Isaac Newton Phelps Stokes,train_and_test,True,3363.jpg
+John Singer Sargent,1878,genre painting,2293.0,1725.0,1596993.0,wikiart,Realism,View of Capri,train_and_test,True,70156.jpg
+John Singer Sargent,1883,portrait,1522.0,2398.0,1286289.0,wikipedia,Realism,Mrs. Henry White,train_and_test,False,4607.jpg
+Marc Chagall,1915,genre painting,2032.0,1715.0,487437.0,wikiart,Naïve Art (Primitivism),The Birthday,train_and_test,True,96121.jpg
+Marc Chagall,1968,genre painting,1834.0,1805.0,564547.0,wikiart,Surrealism,The Big Circus,train_and_test,False,58454.jpg
+Marc Chagall,1968,genre painting,1827.0,1791.0,613445.0,wikiart,Surrealism,The Players,train_and_test,True,102647.jpg
+Paul Gauguin,1903,genre painting,1916.0,1688.0,363138.0,wikiart,Post-Impressionism,The Invocation,train_and_test,False,35323.jpg
+John Singer Sargent,c.1882,portrait,1608.0,2000.0,427818.0,wikiart,Realism,A Spanish Woman,train_and_test,True,59193.jpg
+John Singer Sargent,1925,mythological painting,2663.0,1098.0,491425.0,wikiart,Neoclassicism,Apollo in His Chariot with the Hours,train_and_test,True,82519.jpg
+Marc Chagall,1913,genre painting,1517.0,1925.0,375534.0,wikiart,Cubism,The Fiddler ,train_and_test,False,99541.jpg
+Marc Chagall,1912,still life,1827.0,1585.0,440135.0,wikiart,Cubism,Still life,train_and_test,False,9126.jpg
+Marc Chagall,1910,genre painting,1531.0,1885.0,517397.0,wikiart,Naïve Art (Primitivism),The Model,train_and_test,True,72133.jpg
+Marc Chagall,1916,genre painting,1851.0,1551.0,342211.0,wikiart,Cubism,The Feast of the Tabernacles,train_and_test,True,29218.jpg
+Marc Chagall,1911,portrait,1502.0,1905.0,523370.0,wikiart,Naïve Art (Primitivism),Bride with a Fan,train_and_test,True,39076.jpg
+Marc Chagall,1912,genre painting,1494.0,1910.0,378827.0,wikiart,Expressionism,The Spoonful of Milk,train_and_test,True,54863.jpg
+Marc Chagall,1917,genre painting,1675.0,1702.0,408287.0,wikiart,Expressionism,Peasant Life (The Stable Night Man with Whip),train_and_test,False,102136.jpg
+Marc Chagall,1975,genre painting,1520.0,1867.0,423510.0,wikiart,Naïve Art (Primitivism),The large gray circus,train_and_test,False,70723.jpg
+Marc Chagall,1926,landscape,1494.0,1896.0,416205.0,wikiart,Naïve Art (Primitivism),Peonies and lilacs,train_and_test,True,81851.jpg
+Marc Chagall,1914,genre painting,1480.0,1913.0,273629.0,wikiart,Surrealism,Feast Day (Rabbi with Lemon),train_and_test,True,50216.jpg
+Marc Chagall,1914,religious painting,1479.0,1910.0,273409.0,wikiart,Cubism,The Praying Jew (Rabbi of Vitebsk),train_and_test,False,31495.jpg
+Marc Chagall,1917,cityscape,1468.0,1905.0,388986.0,wikiart,Cubism,Cemetery Gates,train_and_test,True,26446.jpg
+Marc Chagall,c.1909,self-portrait,1511.0,1850.0,350014.0,wikiart,Expressionism,Self Portrait with Brushes ,train_and_test,False,61526.jpg
+Marc Chagall,1910,portrait,1462.0,1905.0,412506.0,wikiart,Expressionism,Woman with a Bouquet,train_and_test,True,99456.jpg
+Marc Chagall,1980,symbolic painting,1700.0,1636.0,389111.0,wikiart,Surrealism,The Grand Parade,train_and_test,True,89961.jpg
+Marc Chagall,1947,symbolic painting,1830.0,1517.0,379676.0,wikiart,Surrealism,The Falling Angel,train_and_test,True,43663.jpg
+John Singer Sargent,1891,nude painting (nu),884.0,3139.0,629003.0,wikiart,Realism,Nude Egyptian Girl,train_and_test,False,86117.jpg
+Marc Chagall,1925,genre painting,1534.0,1807.0,262827.0,wikiart,Cubism,The Watering Trough,train_and_test,True,24878.jpg
+Marc Chagall,1929,symbolic painting,1457.0,1902.0,463551.0,wikiart,Surrealism,The Rooster,train_and_test,False,10843.jpg
+Marc Chagall,1953,genre painting,1442.0,1916.0,371750.0,wikiart,Surrealism,Night,train_and_test,True,43952.jpg
+Paul Gauguin,1893,portrait,2048.0,1348.0,293452.0,wikiart,Cloisonnism,Alone,train_and_test,False,73683.jpg
+Marc Chagall,1911,symbolic painting,1445.0,1910.0,367285.0,wikiart,Cubism,I and the Village,train_and_test,True,93951.jpg
+Marc Chagall,1983,genre painting,1454.0,1896.0,351720.0,wikiart,Surrealism,Couple on a Red Background,train_and_test,True,7415.jpg
+Marc Chagall,1927,genre painting,1525.0,1802.0,375877.0,wikiart,Cubism,Lovers with Flowers,train_and_test,True,102662.jpg
+Marc Chagall,1925,genre painting,1437.0,1905.0,437381.0,wikiart,Naïve Art (Primitivism),Lovers under lilies,train_and_test,True,10373.jpg
+Marc Chagall,1914,self-portrait,1531.0,1782.0,317584.0,wikiart,Naïve Art (Primitivism),Self Portrait,train_and_test,True,6703.jpg
+Marc Chagall,1975,genre painting,1431.0,1905.0,446652.0,wikiart,Naïve Art (Primitivism),Rest,train_and_test,True,44520.jpg
+Marc Chagall,1908,nude painting (nu),1425.0,1910.0,405223.0,wikiart,Expressionism,Red Nude Sitting Up,train_and_test,True,95345.jpg
+Marc Chagall,1913,religious painting,1417.0,1910.0,355179.0,wikiart,Cubism,Jew at Prayer,train_and_test,False,22335.jpg
+Marc Chagall,1971,symbolic painting,1411.0,1910.0,439745.0,wikiart,Naïve Art (Primitivism),In Front of the Picture,train_and_test,True,30889.jpg
+Marc Chagall,1938,religious painting,1522.0,1770.0,431732.0,wikiart,Naïve Art (Primitivism),White Crucifixion,train_and_test,False,75069.jpg
+Marc Chagall,1945,symbolic painting,1422.0,1893.0,460566.0,wikiart,Surrealism,The soul of the city,train_and_test,False,10521.jpg
+Marc Chagall,1917,cityscape,1841.0,1458.0,450323.0,wikiart,Cubism,Vitebsk from mount Zadunov,train_and_test,True,30067.jpg
+Marc Chagall,1948,symbolic painting,1400.0,1908.0,404050.0,wikiart,Surrealism,The tree of life,train_and_test,True,45602.jpg
+Marc Chagall,1919,portrait,1402.0,1905.0,299092.0,wikiart,Expressionism,Musician with violin,train_and_test,True,18454.jpg
+Marc Chagall,1917,cityscape,1827.0,1458.0,532518.0,wikiart,Expressionism,The red gateway,train_and_test,True,65781.jpg
+Marc Chagall,1914,genre painting,1385.0,1913.0,469777.0,wikiart,Cubism,Wounded Soldier,train_and_test,True,41919.jpg
+Marc Chagall,1975,mythological painting,1525.0,1733.0,407329.0,wikiart,Surrealism,The Fall of Icarus,train_and_test,True,40738.jpg
+Marc Chagall,1926,genre painting,1385.0,1905.0,367812.0,wikiart,Cubism,Three Acrobates,train_and_test,True,21863.jpg
+Marc Chagall,1914,genre painting,1858.0,1417.0,353964.0,wikiart,Cubism,The Smolensk Newspaper,train_and_test,False,35971.jpg
+Marc Chagall,1940,symbolic painting,1368.0,1916.0,360468.0,wikiart,Naïve Art (Primitivism),The Three Candles,train_and_test,True,20976.jpg
+Marc Chagall,1914,portrait,1354.0,1925.0,296887.0,wikiart,Cubism,David in profile,train_and_test,True,4036.jpg
+Marc Chagall,c.1912,portrait,1360.0,1913.0,296093.0,wikiart,Cubism,"Mazin, the Poet ",train_and_test,True,49430.jpg
+Marc Chagall,1912,religious painting,1354.0,1913.0,332187.0,wikiart,Cubism,Adam and Eve,train_and_test,False,35914.jpg
+Marc Chagall,1944,genre painting,1351.0,1913.0,287681.0,wikiart,Naïve Art (Primitivism),The Wedding,train_and_test,True,28194.jpg
+Marc Chagall,1917,animal painting,1868.0,1383.0,329299.0,wikiart,Cubism,Composition with goat,train_and_test,True,93546.jpg
+Marc Chagall,1912,symbolic painting,1531.0,1679.0,353810.0,wikiart,Cubism,Homage to Apollinaire ,train_and_test,True,32811.jpg
+Marc Chagall,1912,genre painting,1351.0,1899.0,322738.0,wikiart,Cubism,"The Poet, or Half Past Three ",train_and_test,False,92796.jpg
+Marc Chagall,1910,genre painting,1834.0,1393.0,326060.0,wikiart,Expressionism,Birth,train_and_test,True,17395.jpg
+Marc Chagall,1944,genre painting,1342.0,1902.0,262686.0,wikiart,Cubism,Listening to the Cock,train_and_test,True,58884.jpg
+Marc Chagall,1946,animal painting,1810.0,1400.0,379835.0,wikiart,Surrealism,Cow with Parasol,train_and_test,True,87591.jpg
+Marc Chagall,1966,symbolic painting,1820.0,1390.0,344897.0,wikiart,Surrealism,War,train_and_test,False,32382.jpg
+Marc Chagall,1911,symbolic painting,1325.0,1905.0,362798.0,wikiart,Expressionism,To My Betrothed,train_and_test,True,74530.jpg
+Marc Chagall,1914,genre painting,1325.0,1902.0,309851.0,wikiart,Cubism,The Fiddler ,train_and_test,True,51021.jpg
+Marc Chagall,1925,genre painting,1385.0,1805.0,355912.0,wikiart,Cubism,Peasant Life,train_and_test,False,14755.jpg
+Marc Chagall,1909,genre painting,1817.0,1362.0,441672.0,wikiart,Naïve Art (Primitivism),Russian Wedding,train_and_test,False,46855.jpg
+John Singer Sargent,1925,portrait,1304.0,1895.0,826152.0,wikiart,Realism,Portrait of Sir Max Michaelis,train_and_test,True,87893.jpg
+Marc Chagall,1955,cityscape,1288.0,1905.0,282683.0,wikiart,Surrealism,Field of Mars,train_and_test,True,39393.jpg
+Marc Chagall,1912,genre painting,1285.0,1908.0,303597.0,wikiart,Cubism,The Pinch of Snuff,train_and_test,True,47586.jpg
+Marc Chagall,1966,portrait,1282.0,1902.0,384011.0,wikiart,Surrealism,Portrait of Vava,train_and_test,True,2633.jpg
+Marc Chagall,1953,cityscape,1841.0,1318.0,245474.0,wikiart,Surrealism,Bercy Embankment,train_and_test,True,45221.jpg
+Marc Chagall,1915,genre painting,1517.0,1587.0,236361.0,wikiart,Naïve Art (Primitivism),The Poet Reclining,train_and_test,True,34867.jpg
+Marc Chagall,1973,genre painting,1265.0,1896.0,317107.0,wikiart,Naïve Art (Primitivism),The walk,train_and_test,True,103242.jpg
+Marc Chagall,1917,portrait,1055.0,2265.0,334558.0,wikiart,Cubism,Bella with White Collar,train_and_test,False,77374.jpg
+Marc Chagall,1912,genre painting,1405.0,1699.0,269364.0,wikiart,Cubism,The Soldier Drinks ,train_and_test,True,19342.jpg
+Marc Chagall,1966,religious painting,1690.0,1403.0,339618.0,wikiart,Surrealism,Exodus,train_and_test,False,77819.jpg
+Marc Chagall,1917,genre painting,1548.0,1527.0,318033.0,wikiart,Cubism,The painter to the moon,train_and_test,False,101621.jpg
+Marc Chagall,1963,religious painting,1121.0,2105.0,273954.0,wikiart,Naïve Art (Primitivism),King David,train_and_test,True,10696.jpg
+Marc Chagall,1911,nude painting (nu),1834.0,1283.0,417342.0,wikiart,Cubism,Reclining Nude,train_and_test,True,41244.jpg
+Marc Chagall,1933,genre painting,1837.0,1280.0,306974.0,wikiart,Naïve Art (Primitivism),Solitude,train_and_test,False,4825.jpg
+Marc Chagall,1924,genre painting,1118.0,2098.0,328095.0,wikiart,Cubism,The Green Violinist,train_and_test,True,7584.jpg
+Marc Chagall,1963,religious painting,1118.0,2089.0,432419.0,wikiart,Naïve Art (Primitivism),Bathsheba,train_and_test,True,89205.jpg
+Marc Chagall,1927,symbolic painting,1665.0,1397.0,375490.0,wikiart,Surrealism,The dream (The rabbit),train_and_test,True,76689.jpg
+Marc Chagall,1979,genre painting,1697.0,1365.0,375378.0,wikiart,Naïve Art (Primitivism),Musicians,train_and_test,False,49176.jpg
+Marc Chagall,1954,cityscape,1830.0,1263.0,378627.0,wikiart,Surrealism,Bridges over the Seine,train_and_test,True,5697.jpg
+Marc Chagall,1929,cityscape,1684.0,1353.0,363392.0,wikiart,Naïve Art (Primitivism),Russian village,train_and_test,True,77641.jpg
+Martiros Saryan,1940,landscape,2134.0,1036.0,977985.0,wikiart,Expressionism,Rain in Early May,train_and_test,True,85082.jpg
+Marc Chagall,1981,genre painting,1162.0,1896.0,428299.0,wikiart,Surrealism,Peasants by the well,train_and_test,True,3454.jpg
+Marc Chagall,1977,genre painting,1154.0,1902.0,460651.0,wikiart,Naïve Art (Primitivism),Fiancee with bouquet,train_and_test,True,56808.jpg
+John Singer Sargent,1902,portrait,1173.0,1816.0,528441.0,wikiart,Realism,Alice Wernher born Alice Sedgwick Mankiewicz,train_and_test,True,2543.jpg
+John Singer Sargent,1885,portrait,1053.0,2002.0,524897.0,wikiart,Realism,Madame Paul Poirson,train_and_test,True,101463.jpg
+Marc Chagall,1977,mythological painting,1681.0,1202.0,297057.0,wikiart,Surrealism,The Myth of Orpheus,train_and_test,True,32117.jpg
+Marc Chagall,1942,design,1686.0,1184.0,257988.0,wikiart,Surrealism,"The Carnival, scene II of the Ballet ""Aleko""",train_and_test,True,33267.jpg
+Marc Chagall,1907,portrait,1539.0,1295.0,301227.0,wikiart,Expressionism,Young Girl on a Sofa (Mariaska),train_and_test,True,33120.jpg
+Marc Chagall,1942,design,1659.0,1194.0,260867.0,wikiart,Surrealism,"Finale of the Ballet ""Aleko""",train_and_test,True,56440.jpg
+Marc Chagall,1957,symbolic painting,1827.0,1084.0,325678.0,wikiart,Naïve Art (Primitivism),The Concert,train_and_test,False,15556.jpg
+Marc Chagall,1912,genre painting,1841.0,1067.0,321329.0,wikiart,Cubism,Birth,train_and_test,True,37683.jpg
+Paul Gauguin,1892,mythological painting,1800.0,1082.0,1638911.0,wikiart,Cloisonnism,The Royal End,train_and_test,True,101871.jpg
+John Singer Sargent,1910,genre painting,1219.0,1548.0,701865.0,wikiart,Impressionism,"Girls Gathering Blossoms, Valdemosa, Majorca",train_and_test,False,25295.jpg
+Marc Chagall,1911,genre painting,1834.0,1019.0,342707.0,wikiart,Expressionism,Interior II,train_and_test,False,2437.jpg
+Marc Chagall,c.1947,genre painting,1154.0,1600.0,390315.0,wikiart,Surrealism,Bouquet with flying lovers,train_and_test,True,16127.jpg
+Marc Chagall,1937,history painting,1834.0,964.0,308746.0,wikiart,Surrealism,The Revolution,train_and_test,True,46938.jpg
+John Singer Sargent,1925,portrait,1134.0,1545.0,547199.0,wikiart,Realism,Portrait of Lady Michaelis,train_and_test,True,61409.jpg
+Marc Chagall,1963,symbolic painting,1020.0,1690.0,365366.0,wikiart,Naïve Art (Primitivism),Music,train_and_test,True,68025.jpg
+Paul Gauguin,1903,genre painting,1600.0,1067.0,307130.0,wikiart,Post-Impressionism,Women and white horse,train_and_test,True,76989.jpg
+Marc Chagall,1962,genre painting,1011.0,1677.0,471794.0,wikiart,Naïve Art (Primitivism),Dance,train_and_test,True,33898.jpg
+Martiros Saryan,1958,landscape,1550.0,1086.0,374057.0,wikiart,Symbolism,Ararat and arch Charents,train_and_test,True,42099.jpg
+Paul Gauguin,1892,portrait,1096.0,1476.0,467406.0,wikiart,Post-Impressionism,Two sisters,train_and_test,False,89439.jpg
+Marc Chagall,1912,genre painting,1820.0,882.0,208898.0,wikiart,Cubism,The Cattle Dealer,train_and_test,False,38708.jpg
+John Singer Sargent,1907,landscape,1290.0,1240.0,354774.0,wikiart,Realism,"Val D'Aosta, Purtud",train_and_test,True,80632.jpg
+John Singer Sargent,1917,portrait,947.0,1600.0,491798.0,wikiart,Realism,Portrait of Charles Martin Loeffler,train_and_test,True,63538.jpg
+Paul Gauguin,1885,landscape,1226.0,1229.0,342373.0,wikiart,Impressionism,"Bathing, Dieppe",train_and_test,True,64788.jpg
+Paul Gauguin,1893,landscape,1092.0,1379.0,440530.0,wikiart,Post-Impressionism,Among the lillies,train_and_test,False,31396.jpg
+Martiros Saryan,1958,landscape,1219.0,1200.0,766555.0,wikiart,Expressionism,Orange Rocks,train_and_test,True,59581.jpg
+Martiros Saryan,1937,landscape,1454.0,1000.0,432262.0,wikiart,Socialist Realism,"Worker's Settlement and Concrete Plant, Davalu, Ararat Region",train_and_test,True,66960.jpg
+John Singer Sargent,1909,genre painting,1296.0,1085.0,502916.0,wikiart,Impressionism,Albanian Olive Pickers,train_and_test,True,36906.jpg
+Martiros Saryan,1960,landscape,1384.0,1000.0,373133.0,wikiart,Expressionism,Scene from the Train Window,train_and_test,True,79309.jpg
+Martiros Saryan,1960,landscape,1372.0,1000.0,408294.0,wikiart,Expressionism,Scene from the Train Window,train_and_test,True,29123.jpg
+Martiros Saryan,1949,landscape,1312.0,1042.0,340494.0,wikiart,Realism,View of the Gorge from the Pushkin Pass,train_and_test,True,12164.jpg
+John Singer Sargent,1913,cityscape,1311.0,1041.0,356588.0,wikiart,Impressionism,San Vigilio. A Boat with Golden Sail,train_and_test,True,74587.jpg
+John Singer Sargent,c.1882,genre painting,1019.0,1328.0,96542.0,wikiart,Impressionism,Stringing Onions,train_and_test,False,70240.jpg
+John Singer Sargent,c.1885,interior,1055.0,1274.0,294636.0,wikiart,Realism,My Dining Room,train_and_test,True,23435.jpg
+John Singer Sargent,1912,genre painting,1277.0,1046.0,409663.0,wikiart,Impressionism,The Pink Dress,train_and_test,True,50121.jpg
+Martiros Saryan,1964,sketch and study,1332.0,1002.0,137372.0,wikiart,Fauvism,"Ararat, a study for 'Armenia'",train_and_test,True,30765.jpg
+John Singer Sargent,1886,genre painting,1081.0,1233.0,357984.0,wikiart,Impressionism,"Carnation, Lily, Lily, Rose, from 'The World's Greatest Paintings' published by Oldham's Press in 1920 ",train_and_test,False,94727.jpg
+John Singer Sargent,1910,genre painting,1288.0,1033.0,391197.0,wikiart,Impressionism,Princess Nouronihar,train_and_test,True,98638.jpg
+John Singer Sargent,1910,cityscape,1129.0,1173.0,364514.0,wikiart,Impressionism,Florence. Torre Galli,train_and_test,True,28461.jpg
+John Singer Sargent,1908,genre painting,1152.0,1149.0,579865.0,wikipedia,Impressionism,The Hermit,train_and_test,False,94308.jpg
+John Singer Sargent,c.1911,portrait,1288.0,1019.0,380960.0,wikiart,Impressionism,Reconnoitering,train_and_test,False,14005.jpg
+Marc Chagall,1958,sketch and study,1280.0,1024.0,301967.0,wikiart,Surrealism,"Study to ""Song of Songs IV""",train_and_test,True,58280.jpg
+John Singer Sargent,c.1909,landscape,1282.0,1022.0,478989.0,wikiart,Impressionism,Moraine,train_and_test,True,49811.jpg
+John Singer Sargent,1911,genre painting,1296.0,1006.0,606431.0,wikipedia,Impressionism,Bringing Down Marble from the Quarries in Carrara,train_and_test,True,24326.jpg
+John Singer Sargent,c.1912,portrait,1296.0,1003.0,386051.0,wikiart,Impressionism,Gypsy Encampment,train_and_test,True,48518.jpg
+Martiros Saryan,1948,landscape,1291.0,1000.0,532498.0,wikiart,Expressionism,Kirovakan Village,train_and_test,True,13685.jpg
+John Singer Sargent,c.1908,landscape,1293.0,998.0,401035.0,wikiart,Impressionism,The Olive Grove,train_and_test,False,87764.jpg
+John Singer Sargent,c.1910,animal painting,1288.0,1000.0,429871.0,wikiart,Impressionism,Oxen Resting,train_and_test,True,22172.jpg
+Paul Gauguin,c.1893,literary painting,854.0,1508.0,238752.0,wikiart,Post-Impressionism,Noa Noa Suite: Delightful Land,train_and_test,False,91042.jpg
+Paul Gauguin,1888,genre painting,1280.0,1006.0,805880.0,wikiart,Post-Impressionism,NIght Cafe in Arles (Madame Ginoux) ,train_and_test,True,20258.jpg
+John Singer Sargent,c.1909,landscape,1272.0,1012.0,521959.0,wikiart,Impressionism,Brenva Glacier,train_and_test,True,51712.jpg
+John Singer Sargent,1910,cityscape,995.0,1293.0,432310.0,wikiart,Impressionism,Statue of Daphne,train_and_test,True,3090.jpg
+John Singer Sargent,c.1909,landscape,1285.0,994.0,383379.0,wikiart,Realism,Glacier Streams,train_and_test,True,20397.jpg
+John Singer Sargent,c.1909,genre painting,1272.0,1004.0,347423.0,wikiart,Impressionism,Artist in the Simplon,train_and_test,True,51220.jpg
+John Singer Sargent,1908,landscape,1269.0,999.0,447926.0,wikiart,Impressionism,Ilex Wood at Majorca with Blue Pigs,train_and_test,True,92763.jpg
+John Singer Sargent,1911,landscape,1288.0,983.0,357813.0,wikiart,Impressionism,Simplon Pass Chalets,train_and_test,True,6794.jpg
+John Singer Sargent,1888,genre painting,1067.0,1184.0,201893.0,wikipedia,Impressionism,Dennis Miller Bunker Painting at Calcot,train_and_test,True,6692.jpg
+John Singer Sargent,c.1884,landscape,1272.0,993.0,308876.0,wikiart,Realism,Thistles,train_and_test,False,55823.jpg
+John Singer Sargent,1908,marina,1311.0,956.0,431828.0,wikiart,Impressionism,Flotsam and Jetsam,train_and_test,True,44892.jpg
+John Singer Sargent,1888,genre painting,1010.0,1239.0,349798.0,wikiart,Impressionism,By the River,train_and_test,True,36452.jpg
+Paul Gauguin,1886,still life,1016.0,1226.0,318601.0,wikipedia,Post-Impressionism,Still Life with Profile of Laval,train_and_test,True,8448.jpg
+John Singer Sargent,1905,portrait,923.0,1344.0,44260.0,wikiart,Realism,"Portrait of Mrs. Ernest G. Raphael, nee Florence Cecilia Sassoon",train_and_test,False,17359.jpg
+John Singer Sargent,c.1889,genre painting,1138.0,1090.0,259121.0,wikiart,Impressionism,A boating party,train_and_test,True,54820.jpg
+John Singer Sargent,1887,landscape,1004.0,1230.0,357847.0,wikiart,Realism,A Backwater at Wargrave,train_and_test,True,79490.jpg
+Paul Gauguin,1885,animal painting,1237.0,997.0,307436.0,wikiart,Impressionism,Landscape with cows in an Orchard,train_and_test,True,95623.jpg
+John Singer Sargent,1890,portrait,960.0,1284.0,200513.0,wikiart,Realism,Portrait of Katharine Chase Shapleigh ,train_and_test,False,971.jpg
+John Singer Sargent,1914,landscape,1272.0,966.0,388108.0,wikiart,Impressionism,The Fence,train_and_test,True,51090.jpg
+John Singer Sargent,c.1885,portrait,993.0,1236.0,191750.0,wikiart,Realism,Portrait of Ernse Ange Duez,train_and_test,True,102253.jpg
+Paul Gauguin,1889,genre painting,1223.0,1003.0,348400.0,wikiart,Post-Impressionism,Willows ,train_and_test,False,80368.jpg
+Paul Gauguin,1886,still life,1229.0,997.0,308844.0,wikiart,Post-Impressionism,Still life with white bowl,train_and_test,False,34118.jpg
+John Singer Sargent,c.1884,portrait,981.0,1248.0,245622.0,wikiart,Realism,Portrait of Miss Dorothy Vickers,train_and_test,True,69510.jpg
+John Singer Sargent,c.1910,landscape,1280.0,946.0,524296.0,wikiart,Impressionism,Reflections Rocks and Water,train_and_test,True,66612.jpg
+John Singer Sargent,c.1886,portrait,988.0,1219.0,270109.0,wikiart,Realism,Sir Edmund Gosse,train_and_test,True,714.jpg
+John Singer Sargent,c.1902,cityscape,928.0,1296.0,303150.0,wikiart,Impressionism,Statue of Perseus by Night,train_and_test,True,34840.jpg
+Martiros Saryan,1961,sketch and study,1290.0,928.0,364591.0,wikiart,Expressionism,Mountains,train_and_test,True,44367.jpg
+John Singer Sargent,c.1888,landscape,1279.0,935.0,321786.0,wikipedia,Impressionism,"Landscape with trees, Calcot-on-the-Thames",train_and_test,True,72283.jpg
+John Singer Sargent,1909,landscape,1296.0,922.0,312539.0,wikiart,Realism,Olive Trees at Corfu,train_and_test,True,6624.jpg
+John Singer Sargent,c.1911,cityscape,943.0,1261.0,215442.0,wikiart,Impressionism,Tyrolese Crucifix,train_and_test,True,26171.jpg
+Martiros Saryan,1942,sketch and study,1311.0,907.0,295236.0,wikiart,Fauvism,Arzni,train_and_test,True,50010.jpg
+Paul Gauguin,1881,genre painting,1215.0,978.0,260471.0,wikiart,Impressionism,Young Girl Dreaming (Study of a Child Asleep),train_and_test,True,4755.jpg
+Paul Gauguin,1886,still life,1137.0,1044.0,254805.0,wikiart,Post-Impressionism,Still Life with Cherries,train_and_test,False,10752.jpg
+John Singer Sargent,1896,portrait,990.0,1198.0,158111.0,wikiart,Realism,Countess Laura Spinola Nunez-del-Castillo,train_and_test,True,44164.jpg
+John Singer Sargent,1884,genre painting,994.0,1190.0,257304.0,wikiart,Realism,The Breakfast Table ,train_and_test,True,64328.jpg
+John Singer Sargent,c.1910,animal painting,1319.0,896.0,320886.0,wikiart,Impressionism,Oxen in Repose,train_and_test,True,77182.jpg
+John Singer Sargent,1921,mythological painting,1024.0,1153.0,528073.0,wikiart,Neoclassicism,Chiron and Achilles,train_and_test,True,12636.jpg
+John Singer Sargent,1908,marina,1311.0,899.0,359959.0,wikiart,Impressionism,"Shipping, Majorca",train_and_test,False,34662.jpg
+John Singer Sargent,c.1907,genre painting,931.0,1261.0,208415.0,wikiart,Impressionism,In a Hayloft,train_and_test,True,52119.jpg
+John Singer Sargent,1902,portrait,1083.0,1076.0,609766.0,wikiart,Realism,The Misses Hunter,train_and_test,False,53252.jpg
+John Singer Sargent,c.1878,portrait,983.0,1184.0,266069.0,wikiart,Realism,Mary Turner Austin,train_and_test,True,80056.jpg
+John Singer Sargent,1885,portrait,954.0,1217.0,244820.0,wikiart,Realism,Young Girl Wearing a White Muslin Blouse,train_and_test,False,75655.jpg
+John Singer Sargent,c.1886,still life,976.0,1188.0,326192.0,wikiart,Impressionism,The Old Chair,train_and_test,True,52315.jpg
+John Singer Sargent,1909,genre painting,1288.0,899.0,300634.0,wikiart,Impressionism,Woman Reading in a Cashmere Shawl,train_and_test,True,57249.jpg
+Paul Gauguin,c.1892,nude painting (nu),1119.0,1034.0,315843.0,wikiart,Post-Impressionism,Tahitian pastoral,train_and_test,False,70669.jpg
+Paul Gauguin,1882,portrait,1226.0,942.0,266109.0,wikiart,Impressionism,Aube the Sculptor and His Son,train_and_test,True,76478.jpg
+Martiros Saryan,1953,landscape,1240.0,929.0,384161.0,wikiart,Realism,Sevan Lake,train_and_test,False,43435.jpg
+Marc Chagall,1968,cityscape,1242.0,926.0,308350.0,wikiart,Naïve Art (Primitivism),Paris cityscape,train_and_test,True,49040.jpg
+John Singer Sargent,c.1903,cityscape,1272.0,899.0,426806.0,wikiart,Impressionism,Scuola di San Rocco,train_and_test,True,87267.jpg
+Martiros Saryan,1913,portrait,1279.0,894.0,316910.0,wikiart,Expressionism,Jewish Ladies in Persia,train_and_test,True,44405.jpg
+John Singer Sargent,1912,genre painting,1200.0,950.0,240945.0,wikiart,Impressionism,Granada. The Weavers,train_and_test,False,51676.jpg
+John Singer Sargent,c.1903,genre painting,954.0,1194.0,397479.0,wikiart,Impressionism,A Spanish Interior,train_and_test,False,101589.jpg
+John Singer Sargent,c.1904,cityscape,1311.0,868.0,335805.0,wikiart,Impressionism,"Ponte San Giuseppe di Castello, Venice",train_and_test,True,1801.jpg
+John Singer Sargent,c.1907,cityscape,945.0,1204.0,440131.0,wikiart,Impressionism,Doorway of a Venetian Palace,train_and_test,True,101639.jpg
+Martiros Saryan,1954,landscape,1246.0,913.0,417798.0,wikiart,Post-Impressionism,Ashtarak in hazy day,train_and_test,True,52625.jpg
+John Singer Sargent,c.1907,cityscape,879.0,1293.0,300055.0,wikiart,Impressionism,In a Medici Villa,train_and_test,True,62665.jpg
+John Singer Sargent,c.1888,portrait,940.0,1209.0,330619.0,wikiart,Realism,Portrait of a Man (Probably Nicola D'Inverno),train_and_test,True,85170.jpg
+John Singer Sargent,c.1879,sketch and study,950.0,1196.0,270947.0,wikiart,Realism,Study for The Spanish Dance,train_and_test,True,91958.jpg
+John Singer Sargent,1905,genre painting,865.0,1313.0,171428.0,wikiart,Impressionism,Bedouin Mother ,train_and_test,True,67943.jpg
+John Singer Sargent,1883,portrait,953.0,1187.0,79336.0,wikiart,Realism,Jacques Barenton,train_and_test,True,88471.jpg
+John Singer Sargent,1882,cityscape,1155.0,979.0,351728.0,wikiart,Impressionism,Street in Venice,train_and_test,True,39014.jpg
+John Singer Sargent,1887,genre painting,950.0,1187.0,236892.0,wikiart,Impressionism,Under the Willows,train_and_test,False,92878.jpg
+John Singer Sargent,1913,genre painting,941.0,1196.0,522097.0,wikiart,Realism,Marble Quarries at Carrara,train_and_test,True,98417.jpg
+John Singer Sargent,c.1882,portrait,930.0,1209.0,821165.0,wikiart,Realism,Madame Errazuriz (also known as The Lady in Black),train_and_test,True,80371.jpg
+John Singer Sargent,c.1907,landscape,1272.0,883.0,445425.0,wikiart,Impressionism,Brook among Rocks,train_and_test,False,4859.jpg
+John Singer Sargent,1882,portrait,883.0,1270.0,175080.0,wikiart,Realism,Venetian Onion Seller,train_and_test,True,14284.jpg
+John Singer Sargent,c.1906,genre painting,1293.0,866.0,292563.0,wikiart,Impressionism,Hills of Galilee,train_and_test,False,45410.jpg
+John Singer Sargent,1907,cityscape,1288.0,869.0,399851.0,wikiart,Impressionism,Behind the Salute,train_and_test,True,59238.jpg
+John Singer Sargent,c.1925,sketch and study,888.0,1259.0,167842.0,wikiart,Impressionism,Woman with Collie,train_and_test,True,17457.jpg
+John Singer Sargent,1900,portrait,1142.0,977.0,196952.0,wikipedia,Realism,The Sitwell Family,train_and_test,True,22147.jpg
+John Singer Sargent,c.1879,portrait,956.0,1167.0,248283.0,wikiart,Realism,Carmela Bertagna,train_and_test,True,81257.jpg
+John Singer Sargent,1910,cityscape,933.0,1194.0,478430.0,wikiart,Impressionism,Santa Maria del Carmelo and Scuola Grande dei Carmini ,train_and_test,True,81899.jpg
+Paul Gauguin,1901,landscape,1128.0,981.0,253723.0,wikiart,Post-Impressionism,Landscape with three figures,train_and_test,False,94719.jpg
+Paul Gauguin,1894,portrait,977.0,1122.0,304980.0,wikiart,Post-Impressionism,Tahitian Woman,train_and_test,True,71942.jpg
+Martiros Saryan,1907,landscape,1210.0,905.0,464495.0,wikiart,Post-Impressionism,Blossoming Garden,train_and_test,True,70253.jpg
+Paul Gauguin,1884,portrait,1106.0,988.0,331190.0,wikiart,Impressionism,Clovis Gauguin asleep,train_and_test,True,39430.jpg
+Marc Chagall,1925,cityscape,1200.0,910.0,274074.0,wikiart,Naïve Art (Primitivism),Rooster Man Above Vitebsk,train_and_test,True,38765.jpg
+Martiros Saryan,1947,interior,1231.0,884.0,499885.0,wikiart,Post-Impressionism,Balcony on the Estate of Marshal Ivan Bagramian,train_and_test,True,66617.jpg
+Paul Gauguin,1886,genre painting,1138.0,956.0,370839.0,wikiart,Post-Impressionism,Bathing Place ,train_and_test,True,28086.jpg
+Paul Gauguin,1879,landscape,1129.0,960.0,364469.0,wikiart,Impressionism,Garden under Snow,train_and_test,True,19555.jpg
+Paul Gauguin,1884,cityscape,956.0,1129.0,306244.0,wikiart,Impressionism,Skaters in Fredericksberg park,train_and_test,True,68891.jpg
+Paul Gauguin,1886,still life,1134.0,951.0,306312.0,wikiart,Post-Impressionism,Red hat,train_and_test,True,48311.jpg
+Martiros Saryan,1968,still life,1200.0,897.0,464506.0,wikiart,Realism,The Gifts of Spring,train_and_test,True,53154.jpg
+Paul Gauguin,1884,landscape,954.0,1128.0,332277.0,wikiart,Impressionism,Rouen suburb,train_and_test,True,102469.jpg
+Paul Gauguin,1883,still life,1142.0,942.0,321582.0,wikipedia,Impressionism,Tomatoes and a pewter tankard on a table,train_and_test,True,45494.jpg
+Paul Gauguin,c.1883,cityscape,1134.0,948.0,339863.0,wikiart,Impressionism,"Harbour Scene, Dieppe",train_and_test,False,18760.jpg
+Paul Gauguin,1886,still life,1132.0,949.0,270343.0,wikiart,Post-Impressionism,Pots and Boquets,train_and_test,True,70523.jpg
+Paul Gauguin,1888,landscape,1132.0,948.0,310364.0,wikiart,Post-Impressionism,Meadow at the banks of Aven,train_and_test,False,95633.jpg
+Paul Gauguin,1880,still life,1133.0,947.0,383906.0,wikiart,Impressionism,To Make a Bouquet,train_and_test,True,39806.jpg
+Paul Gauguin,1887,genre painting,1130.0,949.0,325909.0,wikiart,Post-Impressionism,At the pond,train_and_test,True,41423.jpg
+Paul Gauguin,1889,still life,1118.0,959.0,259012.0,wikipedia,Post-Impressionism,The Ham,train_and_test,True,12013.jpg
+Paul Gauguin,1884,still life,1132.0,944.0,276343.0,wikiart,Impressionism,The vase of peonies,train_and_test,True,68577.jpg
+Paul Gauguin,1885,genre painting,1127.0,945.0,344941.0,wikiart,Impressionism,Watering place,train_and_test,True,48337.jpg
+Paul Gauguin,c.1893,self-portrait,948.0,1122.0,273883.0,wikiart,Post-Impressionism,Self Portrait in a Hat,train_and_test,True,41821.jpg
+Paul Gauguin,1886,still life,1137.0,935.0,462011.0,wikiart,Post-Impressionism,Fruit in a bowl,train_and_test,True,68935.jpg
+Paul Gauguin,1888,marina,1135.0,936.0,304803.0,wikiart,Post-Impressionism,The wave,train_and_test,True,4640.jpg
+Paul Gauguin,1884,landscape,1136.0,935.0,297044.0,wikiart,Impressionism,A Henhouse,train_and_test,True,70260.jpg
+Paul Gauguin,1883,landscape,1132.0,935.0,374926.0,wikiart,Impressionism,Stream in Osny,train_and_test,True,21594.jpg
+Paul Gauguin,1894,self-portrait,941.0,1123.0,302605.0,wikiart,Post-Impressionism,Self portrait with palette,train_and_test,True,8913.jpg
+Paul Gauguin,1884,genre painting,945.0,1118.0,321192.0,wikiart,Impressionism,The artist's children,train_and_test,False,76987.jpg
+Paul Gauguin,1882,landscape,1136.0,930.0,379828.0,wikiart,Impressionism,Quarries at Pontoise II,train_and_test,True,23598.jpg
+Martiros Saryan,1922,landscape,1056.0,1000.0,449105.0,wikiart,Symbolism,Mount Aragats at summer,train_and_test,False,65238.jpg
+Paul Gauguin,1884,cityscape,936.0,1126.0,368761.0,wikiart,Impressionism,Rouen at spring,train_and_test,True,92640.jpg
+Paul Gauguin,1886,cityscape,1131.0,931.0,365202.0,wikiart,Post-Impressionism,Bordeaux Harbour,train_and_test,True,95737.jpg
+Paul Gauguin,c.1884,landscape,933.0,1125.0,367241.0,wikiart,Impressionism,Abandoned garden in Rouen,train_and_test,True,42488.jpg
+Paul Gauguin,1884,cityscape,935.0,1122.0,299458.0,wikiart,Impressionism,Notre Dame des Agnes,train_and_test,True,87526.jpg
+Paul Gauguin,1885,portrait,1129.0,929.0,231431.0,wikiart,Impressionism,Portrait of Achille Granchi Taylor,train_and_test,True,55162.jpg
+Paul Gauguin,1885,animal painting,1127.0,930.0,430480.0,wikiart,Impressionism,Watering place,train_and_test,False,44975.jpg
+Paul Gauguin,c.1876,portrait,941.0,1113.0,235983.0,wikiart,Impressionism,Man with a Toque,train_and_test,True,54840.jpg
+Paul Gauguin,1884,still life,941.0,1113.0,257432.0,wikiart,Impressionism,Bouquet,train_and_test,True,89652.jpg
+Paul Gauguin,1884,landscape,936.0,1118.0,362512.0,wikiart,Impressionism,Normandy Landscape: Cow in a Meadow,train_and_test,True,98518.jpg
+Paul Gauguin,1888,landscape,931.0,1124.0,254703.0,wikiart,Post-Impressionism,Fisherman and bathers on the Aven,train_and_test,False,29206.jpg
+Paul Gauguin,1883,landscape,1129.0,926.0,255018.0,wikiart,Impressionism,Street in Osny,train_and_test,False,47029.jpg
+Paul Gauguin,1876,still life,1131.0,924.0,184912.0,wikiart,Impressionism,Still life with red mullet and jug,train_and_test,False,43406.jpg
+Paul Gauguin,1885,still life,1123.0,930.0,257203.0,wikiart,Impressionism,Still life of onions and pigeons and room interior in Copenhagen,train_and_test,True,21600.jpg
+Paul Gauguin,1884,landscape,930.0,1122.0,306094.0,wikiart,Impressionism,Wooded path,train_and_test,False,41319.jpg
+Martiros Saryan,1937,sketch and study,1203.0,867.0,661914.0,wikiart,Realism,Village at the foot of the mountain,train_and_test,True,29571.jpg
+Paul Gauguin,1886,portrait,927.0,1125.0,253661.0,wikiart,Post-Impressionism,The boss's daughter,train_and_test,True,96375.jpg
+Paul Gauguin,1885,landscape,1130.0,922.0,289781.0,wikiart,Impressionism,Haymaking near Dieppe,train_and_test,True,22889.jpg
+Paul Gauguin,1881,cityscape,927.0,1123.0,300359.0,wikiart,Impressionism,"Pissarro's Garden, Pontoise",train_and_test,True,82100.jpg
+Paul Gauguin,1882,landscape,927.0,1123.0,305094.0,wikiart,Impressionism,Gratte roosters path,train_and_test,True,70309.jpg
+Paul Gauguin,1888,genre painting,925.0,1125.0,288010.0,wikiart,Post-Impressionism,The clog-maker,train_and_test,True,82603.jpg
+Paul Gauguin,1884,portrait,922.0,1127.0,287129.0,wikiart,Impressionism,Mette Gauguin in an Evening Dress,train_and_test,True,13999.jpg
+Paul Gauguin,1885,landscape,925.0,1123.0,328381.0,wikiart,Impressionism,"By the Stream, Autumn",train_and_test,False,30387.jpg
+Paul Gauguin,1885,landscape,925.0,1123.0,305321.0,wikiart,Impressionism,White house,train_and_test,True,50126.jpg
+Paul Gauguin,1884,genre painting,923.0,1125.0,389740.0,wikiart,Impressionism,Young woman lying in a grass,train_and_test,True,88474.jpg
+Paul Gauguin,1888,self-portrait,922.0,1124.0,389734.0,wikiart,Post-Impressionism,Self portrait at Lezaven,train_and_test,True,92930.jpg
+Paul Gauguin,1890,portrait,931.0,1113.0,231135.0,wikiart,Post-Impressionism,Portrait of woman against the Cezanne's still life with apples,train_and_test,False,19245.jpg
+Paul Gauguin,1877,portrait,922.0,1121.0,191859.0,wikiart,Impressionism,Portrait of Claude Antoine Charles Favre,train_and_test,True,39714.jpg
+Paul Gauguin,1885,landscape,1121.0,922.0,412797.0,wikiart,Impressionism,"Oestervold Park, Copenhagen",train_and_test,True,61008.jpg
+Paul Gauguin,c.1891,portrait,913.0,1132.0,268684.0,wikiart,Post-Impressionism,Tahitian woman with flower in her hair,train_and_test,False,95445.jpg
+Paul Gauguin,1902,still life,1128.0,916.0,213504.0,wikiart,Post-Impressionism,Still Life with Parrots ,train_and_test,True,67907.jpg
+Paul Gauguin,c.1877,portrait,915.0,1129.0,328016.0,wikiart,Impressionism,Portrait of a child (Aline Gauguin),train_and_test,True,77630.jpg
+Paul Gauguin,1885,landscape,920.0,1122.0,372532.0,wikiart,Impressionism,Pere Jean's Path,train_and_test,True,83611.jpg
+Paul Gauguin,1882,still life,1129.0,914.0,269110.0,wikiart,Impressionism,Flowers and Japanese book,train_and_test,True,15099.jpg
+Paul Gauguin,1884,cityscape,920.0,1120.0,311673.0,wikiart,Impressionism,Blue roofs of Rouen,train_and_test,True,85080.jpg
+Paul Gauguin,1877,portrait,918.0,1122.0,138195.0,wikiart,Impressionism,Portrait of Ingeborg Thaulow,train_and_test,True,57674.jpg
+Paul Gauguin,1885,still life,919.0,1120.0,219386.0,wikiart,Impressionism,Dahlias in a copper vase,train_and_test,True,2220.jpg
+Paul Gauguin,1888,genre painting,1129.0,911.0,329934.0,wikiart,Post-Impressionism,Washerwomen,train_and_test,True,46507.jpg
+Paul Gauguin,1894,cityscape,947.0,1086.0,248584.0,wikiart,Post-Impressionism,Village in the snow,train_and_test,True,37303.jpg
+Paul Gauguin,1886,still life,1132.0,908.0,305292.0,wikiart,Post-Impressionism,The vase of nasturtiums,train_and_test,True,2789.jpg
+Paul Gauguin,1883,landscape,1128.0,911.0,292231.0,wikiart,Impressionism,The farm in Grue ,train_and_test,True,22651.jpg
+Paul Gauguin,1891,genre painting,1126.0,911.0,245126.0,wikiart,Post-Impressionism,The large tree,train_and_test,True,25656.jpg
+Paul Gauguin,1889,still life,1104.0,929.0,218901.0,wikipedia,Post-Impressionism,Still Life with Peaches,train_and_test,True,8358.jpg
+Paul Gauguin,1881,self-portrait,1120.0,915.0,218259.0,wikiart,Impressionism,"Interior of the Painter's House, rue Carcel",train_and_test,True,69842.jpg
+Martiros Saryan,1929,landscape,1200.0,853.0,464298.0,wikiart,Symbolism,Landscape,train_and_test,False,90356.jpg
+Paul Gauguin,1886,cityscape,909.0,1124.0,290499.0,wikiart,Post-Impressionism,Schooner and three masters,train_and_test,True,101883.jpg
+Paul Gauguin,1884,landscape,1132.0,902.0,346822.0,wikiart,Impressionism,Street in Rouen,train_and_test,True,33685.jpg
+Martiros Saryan,1954,landscape,1240.0,823.0,515617.0,wikiart,Expressionism,View from the Banks of the River Araks,train_and_test,True,11614.jpg
+Paul Gauguin,1886,landscape,1130.0,903.0,265308.0,wikiart,Post-Impressionism,Landscape at Pont-Aven,train_and_test,True,3143.jpg
+Paul Gauguin,1886,landscape,1131.0,902.0,298699.0,wikiart,Post-Impressionism,Lollichon Field,train_and_test,True,96559.jpg
+Paul Gauguin,1888,landscape,1139.0,894.0,301708.0,wikiart,Post-Impressionism,Cove opposite Pont-Aven Harbor,train_and_test,True,19905.jpg
+Paul Gauguin,1885,landscape,1130.0,901.0,376895.0,wikiart,Impressionism,Boy by the Water,train_and_test,True,16562.jpg
+Paul Gauguin,1893,portrait,901.0,1129.0,209140.0,wikiart,Cloisonnism,Portrait of Louis Roy,train_and_test,True,79204.jpg
+Paul Gauguin,1887,genre painting,1131.0,899.0,306356.0,wikiart,Cloisonnism,Tropical Conversation,train_and_test,True,11044.jpg
+Paul Gauguin,1888,landscape,1130.0,898.0,314450.0,wikiart,Post-Impressionism,The first flowers,train_and_test,True,96809.jpg
+Paul Gauguin,1888,landscape,1130.0,898.0,326571.0,wikiart,Post-Impressionism,"Mas, near Arles",train_and_test,False,85673.jpg
+Paul Gauguin,1889,landscape,1124.0,902.0,195296.0,wikiart,Post-Impressionism,Brittany landscape with women carrying sack,train_and_test,False,98974.jpg
+Paul Gauguin,1888,portrait,1129.0,898.0,289979.0,wikiart,Post-Impressionism,Portrait of a woman (Marie Lagadu),train_and_test,False,91334.jpg
+Martiros Saryan,1958,sketch and study,1198.0,844.0,152509.0,wikiart,Realism,Byurakan study,train_and_test,True,42906.jpg
+Paul Gauguin,1888,portrait,920.0,1099.0,236413.0,wikiart,Post-Impressionism,Portrait of Madelaine Bernard,train_and_test,False,86501.jpg
+Paul Gauguin,1888,landscape,1131.0,893.0,285700.0,wikiart,Post-Impressionism,"Lane at alchamps, Arles",train_and_test,False,44592.jpg
+Paul Gauguin,1888,landscape,895.0,1127.0,268203.0,wikiart,Post-Impressionism,Seascape with cow on the edge of a cliff,train_and_test,True,35113.jpg
+Paul Gauguin,1894,landscape,896.0,1124.0,176010.0,wikiart,Cloisonnism,Farm in Brittany,train_and_test,False,100451.jpg
+Martiros Saryan,1923,landscape,1000.0,992.0,418127.0,wikiart,Symbolism,Mountains,train_and_test,True,73153.jpg
+Martiros Saryan,1934,landscape,1176.0,835.0,590255.0,wikiart,Expressionism,Armenian landscape,train_and_test,True,25572.jpg
+Martiros Saryan,1907,genre painting,1200.0,808.0,366471.0,wikiart,Expressionism,Near pomegranate tree,train_and_test,True,33078.jpg
+Martiros Saryan,1924,cityscape,962.0,1000.0,315782.0,wikiart,Expressionism,Yerevan,train_and_test,True,92132.jpg
+Martiros Saryan,1911,animal painting,1172.0,817.0,353567.0,wikiart,Expressionism,Night Landscape. Egypt.,train_and_test,True,29567.jpg
+Martiros Saryan,1905,landscape,957.0,1000.0,315689.0,wikiart,Symbolism,Blossoming mountains,train_and_test,True,83989.jpg
+Martiros Saryan,1905,symbolic painting,955.0,1000.0,299661.0,wikiart,Symbolism,Fairy lake,train_and_test,False,9242.jpg
+Martiros Saryan,1958,landscape,1163.0,816.0,454783.0,wikiart,Symbolism,Ararat,train_and_test,True,20917.jpg
+Martiros Saryan,1925,landscape,943.0,1000.0,325148.0,wikiart,Expressionism,Mount Aragats,train_and_test,False,11577.jpg
+Martiros Saryan,1910,genre painting,1000.0,926.0,344655.0,wikiart,Expressionism,Fruit shop,train_and_test,True,60338.jpg
+Martiros Saryan,1930,genre painting,1113.0,804.0,261807.0,wikiart,Expressionism,In the time of leisure,train_and_test,True,87451.jpg
+Martiros Saryan,1952,landscape,1143.0,779.0,536623.0,wikiart,Post-Impressionism,Ararat valley,train_and_test,True,58559.jpg
+Marc Chagall,1912,portrait,805.0,1104.0,71016.0,wikiart,Expressionism,The old Jew,train_and_test,True,40282.jpg
+Martiros Saryan,1910,cityscape,1000.0,888.0,322484.0,wikiart,Fauvism,Constantinople,train_and_test,False,55478.jpg
+Martiros Saryan,1898,portrait,871.0,1000.0,159971.0,wikiart,Realism,Portrait of Sanduht,train_and_test,True,45924.jpg
+Martiros Saryan,1912,animal painting,1000.0,870.0,191444.0,wikiart,Expressionism,Morning in Stavrin,train_and_test,False,74042.jpg
+Martiros Saryan,1914,flower painting,868.0,1000.0,247873.0,wikiart,Expressionism,Flowers of Kalaki,train_and_test,True,98704.jpg
+Marc Chagall,1913,self-portrait,858.0,1004.0,212677.0,wikiart,Cubism,Self-Portrait with Seven Digits,train_and_test,True,84719.jpg
+Martiros Saryan,1933,self-portrait,1050.0,810.0,338043.0,wikiart,Expressionism,Self-portrait with mask,train_and_test,True,70977.jpg
+Martiros Saryan,1933,literary painting,764.0,1095.0,409087.0,wikiart,Symbolism,Badikan and Khan Bohu,train_and_test,True,92728.jpg
+Martiros Saryan,1908,symbolic painting,1000.0,827.0,257506.0,wikiart,Expressionism,At the well,train_and_test,True,6143.jpg
+Martiros Saryan,1934,cityscape,1074.0,762.0,267583.0,wikiart,Expressionism,Street and the ditch in Ashgabat,train_and_test,True,88349.jpg
+Martiros Saryan,1939,portrait,798.0,1000.0,205205.0,wikiart,Realism,Portrait of a film director Ruben Simonov,train_and_test,True,74213.jpg
+Martiros Saryan,1957,landscape,1000.0,798.0,285346.0,wikiart,Symbolism,Armenia,train_and_test,True,101290.jpg
+Martiros Saryan,1961,still life,1000.0,798.0,190732.0,wikiart,Expressionism,October in Yerevan,train_and_test,False,60000.jpg
+Martiros Saryan,1969,landscape,1000.0,791.0,159658.0,wikiart,Symbolism,Land,train_and_test,True,94050.jpg
+Marc Chagall,1912,portrait,816.0,967.0,828605.0,wikiart,Cubism,Soldiers,train_and_test,True,61385.jpg
+Marc Chagall,c.1923,illustration,1024.0,768.0,366525.0,wikiart,Naïve Art (Primitivism),Sobakevich's house ,train_and_test,True,66091.jpg
+Marc Chagall,c.1923,illustration,1024.0,768.0,206690.0,wikiart,Naïve Art (Primitivism),Tchitchikov and Sobakevich after dinner,train_and_test,True,38828.jpg
+Marc Chagall,c.1923,illustration,1024.0,768.0,189368.0,wikiart,Naïve Art (Primitivism),Tchitchikov at the customs,train_and_test,True,37834.jpg
+Marc Chagall,c.1923,illustration,1024.0,768.0,167983.0,wikiart,Naïve Art (Primitivism),"Illustration to Nikolai Gogol's ""Dead Souls"" ",train_and_test,True,56579.jpg
+Martiros Saryan,1923,flower painting,1014.0,768.0,285492.0,wikiart,Post-Impressionism,Wistaria,train_and_test,True,6681.jpg
+Martiros Saryan,1904,portrait,774.0,1000.0,249822.0,wikiart,Post-Impressionism,Armenian from Nakhichevan,train_and_test,True,72414.jpg
+Martiros Saryan,1911,cityscape,1000.0,773.0,182871.0,wikiart,Expressionism,Bedouin with a camel,train_and_test,True,89527.jpg
+Martiros Saryan,1917,cityscape,1022.0,755.0,422039.0,wikiart,Expressionism,Old Tbilisi,train_and_test,True,5128.jpg
+Martiros Saryan,1945,flower painting,1000.0,771.0,277533.0,wikiart,Realism,"For the Armenians-fighters,  veterans of World War II",train_and_test,True,34871.jpg
+Martiros Saryan,1929,genre painting,1000.0,768.0,447089.0,wikiart,Expressionism,The street,train_and_test,True,39079.jpg
+Martiros Saryan,1911,flower painting,1024.0,750.0,105457.0,wikiart,Fauvism,Lotus,train_and_test,False,79835.jpg
+Martiros Saryan,1909,cityscape,758.0,1005.0,325908.0,wikiart,Expressionism,Street of the eastern town,train_and_test,True,50169.jpg
+Martiros Saryan,1923,landscape,1000.0,759.0,371914.0,wikiart,Symbolism,"View of Bjini Fortress, Armenia",train_and_test,True,80485.jpg
+Martiros Saryan,1923,landscape,989.0,766.0,426730.0,wikiart,Post-Impressionism,Ararat in clouds,train_and_test,False,24457.jpg
+Martiros Saryan,1923,landscape,999.0,756.0,183754.0,wikiart,Symbolism,Ararat,train_and_test,False,82682.jpg
+Martiros Saryan,1909,self-portrait,765.0,981.0,427528.0,wikiart,Expressionism,Self-portrait,train_and_test,True,39784.jpg
+Martiros Saryan,1952,landscape,994.0,753.0,373558.0,wikiart,Realism,Lalvar,train_and_test,True,78384.jpg
+Martiros Saryan,1926,animal painting,1000.0,747.0,219306.0,wikiart,Symbolism,Gazelles,train_and_test,False,77533.jpg
+Martiros Saryan,1911,genre painting,735.0,1000.0,181830.0,wikiart,Expressionism,Walking woman,train_and_test,False,15837.jpg
+Martiros Saryan,1952,landscape,1050.0,697.0,299638.0,wikiart,Post-Impressionism,Ararat from Dvin,train_and_test,False,71089.jpg
+Martiros Saryan,1959,portrait,1000.0,726.0,182466.0,wikiart,Expressionism,Portrait of Ilya Ehrenburg,train_and_test,True,66936.jpg
+Martiros Saryan,1913,still life,941.0,768.0,318392.0,wikiart,Expressionism,Still life,train_and_test,True,60571.jpg
+Martiros Saryan,1937,landscape,1000.0,722.0,312942.0,wikiart,Expressionism,July,train_and_test,False,47914.jpg
+Martiros Saryan,1938,genre painting,950.0,756.0,392644.0,wikiart,Expressionism,Gathering peaches in the collective farm in Armenia,train_and_test,True,53895.jpg
+Martiros Saryan,1963,still life,938.0,761.0,377913.0,wikiart,Post-Impressionism,Autumn landscape,train_and_test,True,59906.jpg
+Martiros Saryan,1932,landscape,929.0,763.0,329481.0,wikiart,Expressionism,Settlement,train_and_test,True,61917.jpg
+Martiros Saryan,1924,landscape,707.0,1000.0,281445.0,wikiart,Fauvism,Mottled landscape,train_and_test,True,83021.jpg
+Martiros Saryan,1942,still life,1100.0,642.0,409497.0,wikiart,Realism,Fruits and vegetables,train_and_test,True,4111.jpg
+Martiros Saryan,1928,cityscape,1000.0,698.0,319596.0,wikiart,Expressionism,A nook of old Yerevan,train_and_test,True,52803.jpg
+Martiros Saryan,1957,landscape,1000.0,698.0,222874.0,wikiart,Symbolism,Ararat from Byurakan,train_and_test,True,87020.jpg
+Martiros Saryan,1937,landscape,1000.0,693.0,126045.0,wikiart,Realism,Alaverdi copper-chemical complex,train_and_test,False,1639.jpg
+Martiros Saryan,1924,landscape,996.0,694.0,184303.0,wikiart,Post-Impressionism,Eastern landscape,train_and_test,False,11320.jpg
+Martiros Saryan,1911,cityscape,1000.0,684.0,248219.0,wikiart,Expressionism,Fellah village,train_and_test,True,6630.jpg
+Martiros Saryan,1923,design,1000.0,683.0,203140.0,wikiart,Symbolism,The curtain of the State Drama Theater of Armenia,train_and_test,True,15098.jpg
+Martiros Saryan,1946,portrait,683.0,1000.0,136196.0,wikiart,Expressionism,Portrait of poet  Anna Akhmatova,train_and_test,True,57227.jpg
+Martiros Saryan,1956,landscape,1000.0,673.0,204343.0,wikiart,Realism,Church Karmravor of VII century,train_and_test,True,11123.jpg
+Martiros Saryan,1945,landscape,1000.0,668.0,115870.0,wikiart,Symbolism,Ararat valley,train_and_test,True,8736.jpg
+Martiros Saryan,1910,cityscape,595.0,1099.0,336999.0,wikiart,Symbolism,A street. Noon.,train_and_test,True,47134.jpg
+Martiros Saryan,1912,cityscape,1000.0,652.0,263933.0,wikiart,Fauvism,Egyptian night,train_and_test,True,76787.jpg
+Martiros Saryan,1929,landscape,800.0,798.0,233970.0,wikiart,Realism,Spring day,train_and_test,True,97961.jpg
+Martiros Saryan,1928,flower painting,795.0,800.0,214834.0,wikiart,Realism,Flowers,train_and_test,True,60092.jpg
+Martiros Saryan,1928,genre painting,800.0,794.0,181151.0,wikiart,Expressionism,Still life and children,train_and_test,True,90860.jpg
+Martiros Saryan,1926,landscape,794.0,800.0,124081.0,wikiart,Symbolism,Geghama mountains,train_and_test,True,101293.jpg
+Martiros Saryan,1925,still life,794.0,800.0,158173.0,wikiart,Expressionism,Still life,train_and_test,True,13271.jpg
+Martiros Saryan,1929,flower painting,794.0,800.0,208306.0,wikiart,Post-Impressionism,Flowers,train_and_test,True,736.jpg
+Martiros Saryan,1926,landscape,800.0,791.0,169610.0,wikiart,Symbolism,Caravan,train_and_test,True,30633.jpg
+Martiros Saryan,1910,landscape,800.0,790.0,183647.0,wikiart,Expressionism,Wisteria,train_and_test,True,16608.jpg
+Martiros Saryan,1910,cityscape,800.0,789.0,142727.0,wikiart,Expressionism,A street. Constantinople.,train_and_test,True,12170.jpg
+Martiros Saryan,1925,landscape,800.0,788.0,313472.0,wikiart,Expressionism,Aragats,train_and_test,True,88214.jpg
+Martiros Saryan,1924,landscape,788.0,800.0,219413.0,wikiart,Symbolism,Midday Silence,train_and_test,True,20368.jpg
+Martiros Saryan,1953,landscape,1000.0,628.0,101445.0,wikiart,Realism,Noon,train_and_test,True,16897.jpg
+Martiros Saryan,1946,still life,783.0,800.0,175409.0,wikiart,Post-Impressionism,Bouquet of flowers,train_and_test,True,100319.jpg
+Martiros Saryan,1911,sketch and study,800.0,782.0,122334.0,wikiart,Expressionism,Egyptian woman,train_and_test,True,66425.jpg
+Martiros Saryan,1912,landscape,782.0,800.0,145133.0,wikiart,Expressionism,Mount Abul and passing camels,train_and_test,True,49596.jpg
+Martiros Saryan,1915,portrait,782.0,800.0,148879.0,wikiart,Expressionism,Portrait of Mnatsakan Gyulnazaryan,train_and_test,True,16247.jpg
+Martiros Saryan,1940,flower painting,800.0,779.0,151461.0,wikiart,Expressionism,Poppy,train_and_test,True,59716.jpg
+Martiros Saryan,1934,illustration,800.0,778.0,209144.0,wikiart,Expressionism,Illustration for book by V. Totovents 'Life on the old Roman road',train_and_test,True,16321.jpg
